@@ -7,4 +7,4 @@
 
 2. In case it's the same as opulens, implement a similar backend using Django and PostgreSQL.
 
-3. 
+3. Test and ensure private deployment works, as well as the CSS and HTML styles, make sure they all link and are implemented properly.
